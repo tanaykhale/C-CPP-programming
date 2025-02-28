@@ -1,0 +1,13 @@
+﻿  Date.cpp
+  DayDateProject.cpp
+  Generating Code...
+C:\Users\hp\Desktop\c practice\know-it\DayDateProject\DayDateProject\DayDateProject.cpp(15,8): error C2665: 'Date::setDate': no overloaded function could convert all the argument types
+      C:\Users\hp\Desktop\c practice\know-it\DayDateProject\DayDateProject\Date.h(11,7):
+      could be 'void Date::setDate(int,char *,int)'
+          C:\Users\hp\Desktop\c practice\know-it\DayDateProject\DayDateProject\DayDateProject.cpp(15,8):
+          'void Date::setDate(int,char *,int)': cannot convert argument 2 from 'const char [6]' to 'char *'
+              C:\Users\hp\Desktop\c practice\know-it\DayDateProject\DayDateProject\DayDateProject.cpp(15,20):
+              Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+      C:\Users\hp\Desktop\c practice\know-it\DayDateProject\DayDateProject\DayDateProject.cpp(15,8):
+      while trying to match the argument list '(int, const char [6], int)'
+  

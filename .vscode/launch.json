@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/hp/Desktop/c practice/know-it",
-      "program": "c:/Users/hp/Desktop/c practice/know-it/build/Debug/outDebug",
+      "cwd": "c:/Users/hp/Desktop/c practice/know-it/Complex",
+      "program": "c:/Users/hp/Desktop/c practice/know-it/Complex/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
