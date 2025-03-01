@@ -7,7 +7,7 @@ Employee::Employee() {
 	salary = 0;
 }
 
-Employee::Employee(int a,char* str,double s) {
+Employee::Employee(int a,const char* str,double s) {
 	emp_id = a;
 	strcpy_s(emp_name, str);
 	salary = s;
@@ -21,9 +21,19 @@ void Employee::Accept() {
 	cin >> salary;
 }
 void Employee::Display() {
-
+	
 	cout << "Employee id " << emp_id<<endl;
 	cout << "Employee name " << emp_name<<endl;
 	cout << "Employee salary " << salary<<endl;
 
 }
+int Employee::getEmpid() {
+	return emp_id;
+}
+void Employee::updateEmployee() {
+	cout << "Enter new name ";
+	cin >> emp_name;
+	cout << "Enter new salary ";
+	cin >> salary;
+}
+
