@@ -1,0 +1,11 @@
+﻿  ConsoleApplication1.cpp
+  Product.cpp
+  Generating Code...
+C:\Users\hp\Desktop\c practice\know-it\ConsoleApplication1\ConsoleApplication1\Product.cpp(4,17): error C2440: '=': cannot convert from 'const char [3]' to 'char *'
+      C:\Users\hp\Desktop\c practice\know-it\ConsoleApplication1\ConsoleApplication1\Product.cpp(4,17):
+      Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+  
+C:\Users\hp\Desktop\c practice\know-it\ConsoleApplication1\ConsoleApplication1\Product.cpp(10,17): error C2440: '=': cannot convert from 'const char *' to 'char *'
+      C:\Users\hp\Desktop\c practice\know-it\ConsoleApplication1\ConsoleApplication1\Product.cpp(10,17):
+      Conversion loses qualifiers
+  
