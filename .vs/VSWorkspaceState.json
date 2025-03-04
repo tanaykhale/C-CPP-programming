@@ -1,10 +1,12 @@
 {
   "ExpandedNodes": [
     "",
+    "\\ConsoleApplication1",
     "\\ConsoleApplication1\\ConsoleApplication1",
-    "\\Employee Manegment",
+    "\\Count",
+    "\\Count\\Count",
     "\\Employee Manegment\\Employee Manegment"
   ],
-  "SelectedNode": "\\ConsoleApplication1",
+  "SelectedNode": "\\Count\\Count\\Count.cpp",
   "PreviewInSolutionExplorer": false
 }

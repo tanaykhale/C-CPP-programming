@@ -4,15 +4,31 @@
 #include <iostream>
 #include "Complex.h"
 using namespace std;
-Complex::showCount();
+
 
 int main()
 {
-	Complex c1,c2,c3,c4;
-	c1.Accept();
+	Complex c1(10,20), c2(10,20), c3, c4;
+	/*c1.Accept();
 	c1.Display();
 
-	cout << "Number of objects created: " <<  << endl;
+	c1.showCount();*/
+	//c3 = c1 + c2;  //c1.operator+(2);
+	//c3.Display();
+	//c4 = c1 - c2;  //c1.operator-(c2);
+	//c4.Display();
+	//c3 = -c1;      //c1.operator-();
+	//c3.Display();
+	//c4 = ++c1;     //c1.operator++();
+	//c4.Display();
+	//c3 = c1++;     //c1.operator++(0);
+	//c3.Display();
+	if (c1 == c2) {      //c1.operator(c2);
+		cout << "true";
+	}
+	else
+		cout << "false";
+
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu

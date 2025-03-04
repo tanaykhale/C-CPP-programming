@@ -1,0 +1,7 @@
+﻿  Complex.cpp
+C:\Users\hp\Desktop\c practice\know-it\Count\Count\Complex.cpp(46,1): warning C4172: returning address of local variable or temporary : temp
+C:\Users\hp\Desktop\c practice\know-it\Count\Count\Complex.cpp(66,1): warning C4172: returning address of local variable or temporary : temp
+C:\Users\hp\Desktop\c practice\know-it\Count\Count\Complex.cpp(53,1): warning C4172: returning address of local variable or temporary : temp
+C:\Users\hp\Desktop\c practice\know-it\Count\Count\Complex.cpp(59,1): warning C4172: returning address of local variable or temporary : temp
+C:\Users\hp\Desktop\c practice\know-it\Count\Count\Complex.cpp(73,1): warning C4172: returning address of local variable or temporary : temp
+  Count.vcxproj -> C:\Users\hp\Desktop\c practice\know-it\Count\x64\Debug\Count.exe

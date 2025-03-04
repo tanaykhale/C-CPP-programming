@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\c practice\\know-it\\OperatorOverloading\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A481ECE-7B1A-4DA4-A52B-D2C02252A044}|OperatorOverloading\\OperatorOverloading.vcxproj|C:\\Users\\hp\\Desktop\\c practice\\know-it\\OperatorOverloading\\OperatorOverloading\\OperatorOverloading.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5A481ECE-7B1A-4DA4-A52B-D2C02252A044}|OperatorOverloading\\OperatorOverloading.vcxproj|solutionrelative:OperatorOverloading\\OperatorOverloading.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A481ECE-7B1A-4DA4-A52B-D2C02252A044}|OperatorOverloading\\OperatorOverloading.vcxproj|C:\\Users\\hp\\Desktop\\c practice\\know-it\\OperatorOverloading\\OperatorOverloading\\Array.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5A481ECE-7B1A-4DA4-A52B-D2C02252A044}|OperatorOverloading\\OperatorOverloading.vcxproj|solutionrelative:OperatorOverloading\\Array.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A481ECE-7B1A-4DA4-A52B-D2C02252A044}|OperatorOverloading\\OperatorOverloading.vcxproj|C:\\Users\\hp\\Desktop\\c practice\\know-it\\OperatorOverloading\\OperatorOverloading\\Array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5A481ECE-7B1A-4DA4-A52B-D2C02252A044}|OperatorOverloading\\OperatorOverloading.vcxproj|solutionrelative:OperatorOverloading\\Array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Array.cpp",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\c practice\\know-it\\OperatorOverloading\\OperatorOverloading\\Array.cpp",
+              "RelativeDocumentMoniker": "OperatorOverloading\\Array.cpp",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\c practice\\know-it\\OperatorOverloading\\OperatorOverloading\\Array.cpp",
+              "RelativeToolTip": "OperatorOverloading\\Array.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-04T09:20:31.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Array.h",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\c practice\\know-it\\OperatorOverloading\\OperatorOverloading\\Array.h",
+              "RelativeDocumentMoniker": "OperatorOverloading\\Array.h",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\c practice\\know-it\\OperatorOverloading\\OperatorOverloading\\Array.h",
+              "RelativeToolTip": "OperatorOverloading\\Array.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-04T09:19:33.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OperatorOverloading.cpp",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\c practice\\know-it\\OperatorOverloading\\OperatorOverloading\\OperatorOverloading.cpp",
+              "RelativeDocumentMoniker": "OperatorOverloading\\OperatorOverloading.cpp",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\c practice\\know-it\\OperatorOverloading\\OperatorOverloading\\OperatorOverloading.cpp",
+              "RelativeToolTip": "OperatorOverloading\\OperatorOverloading.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-04T09:18:45.747Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

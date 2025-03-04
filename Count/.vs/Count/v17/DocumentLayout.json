@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\c practice\\know-it\\Count\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1064BD98-71A5-4E13-9F01-DE05BF81BA3A}|Count\\Count.vcxproj|C:\\Users\\hp\\Desktop\\c practice\\know-it\\Count\\Count\\Count.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1064BD98-71A5-4E13-9F01-DE05BF81BA3A}|Count\\Count.vcxproj|solutionrelative:Count\\Count.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Desktop\\c practice\\know-it\\Count\\Count\\Complex.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Count\\Complex.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1064BD98-71A5-4E13-9F01-DE05BF81BA3A}|Count\\Count.vcxproj|C:\\Users\\hp\\Desktop\\c practice\\know-it\\Count\\Count\\Complex.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1064BD98-71A5-4E13-9F01-DE05BF81BA3A}|Count\\Count.vcxproj|solutionrelative:Count\\Complex.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Desktop\\c practice\\know-it\\Count\\Count\\Complex.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Count\\Complex.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Desktop\\c practice\\know-it\\Count\\Count\\Count.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Count\\Count.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Complex.cpp",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\c practice\\know-it\\Count\\Count\\Complex.cpp",
+              "RelativeDocumentMoniker": "Count\\Complex.cpp",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\c practice\\know-it\\Count\\Count\\Complex.cpp",
+              "RelativeToolTip": "Count\\Complex.cpp",
+              "ViewState": "AgIAADcAAAAAAAAAAADwv0sAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-04T08:44:37.615Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -28,20 +45,20 @@
               "RelativeDocumentMoniker": "Count\\Complex.h",
               "ToolTip": "C:\\Users\\hp\\Desktop\\c practice\\know-it\\Count\\Count\\Complex.h",
               "RelativeToolTip": "Count\\Complex.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-02-28T09:30:19.91Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Count.cpp",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\c practice\\know-it\\Count\\Count\\Count.cpp",
               "RelativeDocumentMoniker": "Count\\Count.cpp",
               "ToolTip": "C:\\Users\\hp\\Desktop\\c practice\\know-it\\Count\\Count\\Count.cpp",
               "RelativeToolTip": "Count\\Count.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvwsAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-02-28T09:30:08.161Z",
               "EditorCaption": ""
