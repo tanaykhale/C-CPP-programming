@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\c practice\\know-it\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Desktop\\c practice\\know-it\\ConsoleApplication1\\ConsoleApplication1\\Product.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApplication1\\ConsoleApplication1\\Product.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Desktop\\c practice\\know-it\\Count\\Count\\Complex.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Count\\Count\\Complex.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Desktop\\c practice\\know-it\\ConsoleApplication1\\ConsoleApplication1\\Product.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApplication1\\ConsoleApplication1\\Product.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Desktop\\c practice\\know-it\\ConsoleApplication1\\ConsoleApplication1\\ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApplication1\\ConsoleApplication1\\ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,21 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Product.h",
-              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\c practice\\know-it\\ConsoleApplication1\\ConsoleApplication1\\Product.h",
-              "RelativeDocumentMoniker": "ConsoleApplication1\\ConsoleApplication1\\Product.h",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\c practice\\know-it\\ConsoleApplication1\\ConsoleApplication1\\Product.h",
-              "RelativeToolTip": "ConsoleApplication1\\ConsoleApplication1\\Product.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-03T09:14:55.248Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -48,19 +31,20 @@
               "ViewState": "AgIAAAQAAAAAAAAAAAAqwAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-03T09:14:05.892Z",
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ConsoleApplication1.cpp",
-              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\c practice\\know-it\\ConsoleApplication1\\ConsoleApplication1\\ConsoleApplication1.cpp",
-              "RelativeDocumentMoniker": "ConsoleApplication1\\ConsoleApplication1\\ConsoleApplication1.cpp",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\c practice\\know-it\\ConsoleApplication1\\ConsoleApplication1\\ConsoleApplication1.cpp",
-              "RelativeToolTip": "ConsoleApplication1\\ConsoleApplication1\\ConsoleApplication1.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Complex.cpp",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\c practice\\know-it\\Count\\Count\\Complex.cpp",
+              "RelativeDocumentMoniker": "Count\\Count\\Complex.cpp",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\c practice\\know-it\\Count\\Count\\Complex.cpp",
+              "RelativeToolTip": "Count\\Count\\Complex.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-03T09:13:41.853Z",
+              "WhenOpened": "2025-03-04T08:43:16.74Z",
+              "IsPinned": true,
               "EditorCaption": ""
             }
           ]

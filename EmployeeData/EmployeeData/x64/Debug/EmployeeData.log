@@ -1,0 +1,5 @@
+﻿  EmployeeData.cpp
+C:\Users\hp\Desktop\c practice\know-it\EmployeeData\EmployeeData\Employee.h(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'EmployeeData.cpp')
+  
+  EmployeeData.vcxproj -> C:\Users\hp\Desktop\c practice\know-it\EmployeeData\x64\Debug\EmployeeData.exe

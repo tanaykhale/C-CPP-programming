@@ -1,0 +1,7 @@
+﻿  Account.cpp
+  Bank Account.cpp
+  CurrentAccount.cpp
+  SavingsAccount.cpp
+C:\Users\hp\Desktop\c practice\know-it\Bank Account\Bank Account\SavingsAccount.cpp(12,25): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  Bank Account.vcxproj -> C:\Users\hp\Desktop\c practice\know-it\Bank Account\x64\Debug\Bank Account.exe
