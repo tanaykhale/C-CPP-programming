@@ -1,0 +1,14 @@
+﻿  NewEmployee.cpp
+C:\Users\hp\Desktop\c practice\know-it\NewEmployee\NewEmployee\Employee.h(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'NewEmployee.cpp')
+  
+  SalesManager.cpp
+C:\Users\hp\Desktop\c practice\know-it\NewEmployee\NewEmployee\Employee.h(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'SalesManager.cpp')
+  
+  SalesPerson.cpp
+C:\Users\hp\Desktop\c practice\know-it\NewEmployee\NewEmployee\Employee.h(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'SalesPerson.cpp')
+  
+  Generating Code...
+  NewEmployee.vcxproj -> C:\Users\hp\Desktop\c practice\know-it\NewEmployee\x64\Debug\NewEmployee.exe

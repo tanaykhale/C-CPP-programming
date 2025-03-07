@@ -1,0 +1,290 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\c practice\\know-it\\NewEmployee\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Desktop\\c practice\\know-it\\NewEmployee\\NewEmployee\\NewEmployee.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NewEmployee\\NewEmployee.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Desktop\\c practice\\know-it\\NewEmployee\\NewEmployee\\SalesManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NewEmployee\\SalesManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Desktop\\c practice\\know-it\\NewEmployee\\NewEmployee\\SalesPerson.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NewEmployee\\SalesPerson.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Desktop\\c practice\\know-it\\NewEmployee\\NewEmployee\\SalesManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NewEmployee\\SalesManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Desktop\\c practice\\know-it\\NewEmployee\\NewEmployee\\NewEmployee.vcxproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NewEmployee\\NewEmployee.vcxproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Desktop\\c practice\\know-it\\NewEmployee\\NewEmployee\\NewEmployee.vcxproj.filters||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NewEmployee\\NewEmployee.vcxproj.filters||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Desktop\\c practice\\know-it\\NewEmployee\\NewEmployee\\NewEmployee.vcxproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NewEmployee\\NewEmployee.vcxproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Desktop\\c practice\\know-it\\NewEmployee\\NewEmployee\\Date.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NewEmployee\\Date.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Desktop\\c practice\\know-it\\NewEmployee\\NewEmployee\\Employee.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NewEmployee\\Employee.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Desktop\\c practice\\know-it\\NewEmployee\\NewEmployee\\Date.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NewEmployee\\Date.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Desktop\\c practice\\know-it\\NewEmployee\\NewEmployee\\Manager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NewEmployee\\Manager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Desktop\\c practice\\know-it\\NewEmployee\\NewEmployee\\Manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NewEmployee\\Manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Desktop\\c practice\\know-it\\NewEmployee\\NewEmployee\\WageEmployee.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NewEmployee\\WageEmployee.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Desktop\\c practice\\know-it\\NewEmployee\\NewEmployee\\Employee.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NewEmployee\\Employee.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Desktop\\c practice\\know-it\\NewEmployee\\NewEmployee\\SalesPerson.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NewEmployee\\SalesPerson.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Desktop\\c practice\\know-it\\NewEmployee\\NewEmployee\\WageEmployee.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NewEmployee\\WageEmployee.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NewEmployee.vcxproj.user",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\c practice\\know-it\\NewEmployee\\NewEmployee\\NewEmployee.vcxproj.user",
+              "RelativeDocumentMoniker": "NewEmployee\\NewEmployee.vcxproj.user",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\c practice\\know-it\\NewEmployee\\NewEmployee\\NewEmployee.vcxproj.user",
+              "RelativeToolTip": "NewEmployee\\NewEmployee.vcxproj.user",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2025-03-07T09:31:46.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NewEmployee.vcxproj.filters",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\c practice\\know-it\\NewEmployee\\NewEmployee\\NewEmployee.vcxproj.filters",
+              "RelativeDocumentMoniker": "NewEmployee\\NewEmployee.vcxproj.filters",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\c practice\\know-it\\NewEmployee\\NewEmployee\\NewEmployee.vcxproj.filters",
+              "RelativeToolTip": "NewEmployee\\NewEmployee.vcxproj.filters",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-07T09:31:41.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NewEmployee.vcxproj",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\c practice\\know-it\\NewEmployee\\NewEmployee\\NewEmployee.vcxproj",
+              "RelativeDocumentMoniker": "NewEmployee\\NewEmployee.vcxproj",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\c practice\\know-it\\NewEmployee\\NewEmployee\\NewEmployee.vcxproj",
+              "RelativeToolTip": "NewEmployee\\NewEmployee.vcxproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000698|",
+              "WhenOpened": "2025-03-07T09:31:29.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Manager.cpp",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\c practice\\know-it\\NewEmployee\\NewEmployee\\Manager.cpp",
+              "RelativeDocumentMoniker": "NewEmployee\\Manager.cpp",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\c practice\\know-it\\NewEmployee\\NewEmployee\\Manager.cpp",
+              "RelativeToolTip": "NewEmployee\\Manager.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-07T08:36:33.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SalesManager.cpp",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\c practice\\know-it\\NewEmployee\\NewEmployee\\SalesManager.cpp",
+              "RelativeDocumentMoniker": "NewEmployee\\SalesManager.cpp",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\c practice\\know-it\\NewEmployee\\NewEmployee\\SalesManager.cpp",
+              "RelativeToolTip": "NewEmployee\\SalesManager.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-07T08:34:08.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SalesManager.h",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\c practice\\know-it\\NewEmployee\\NewEmployee\\SalesManager.h",
+              "RelativeDocumentMoniker": "NewEmployee\\SalesManager.h",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\c practice\\know-it\\NewEmployee\\NewEmployee\\SalesManager.h",
+              "RelativeToolTip": "NewEmployee\\SalesManager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-07T08:21:09.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Manager.h",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\c practice\\know-it\\NewEmployee\\NewEmployee\\Manager.h",
+              "RelativeDocumentMoniker": "NewEmployee\\Manager.h",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\c practice\\know-it\\NewEmployee\\NewEmployee\\Manager.h",
+              "RelativeToolTip": "NewEmployee\\Manager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-07T08:15:38.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WageEmployee.cpp",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\c practice\\know-it\\NewEmployee\\NewEmployee\\WageEmployee.cpp",
+              "RelativeDocumentMoniker": "NewEmployee\\WageEmployee.cpp",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\c practice\\know-it\\NewEmployee\\NewEmployee\\WageEmployee.cpp",
+              "RelativeToolTip": "NewEmployee\\WageEmployee.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-07T08:10:40.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SalesPerson.cpp",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\c practice\\know-it\\NewEmployee\\NewEmployee\\SalesPerson.cpp",
+              "RelativeDocumentMoniker": "NewEmployee\\SalesPerson.cpp",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\c practice\\know-it\\NewEmployee\\NewEmployee\\SalesPerson.cpp",
+              "RelativeToolTip": "NewEmployee\\SalesPerson.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-07T08:10:20.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employee.cpp",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\c practice\\know-it\\NewEmployee\\NewEmployee\\Employee.cpp",
+              "RelativeDocumentMoniker": "NewEmployee\\Employee.cpp",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\c practice\\know-it\\NewEmployee\\NewEmployee\\Employee.cpp",
+              "RelativeToolTip": "NewEmployee\\Employee.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-07T08:08:04.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Date.cpp",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\c practice\\know-it\\NewEmployee\\NewEmployee\\Date.cpp",
+              "RelativeDocumentMoniker": "NewEmployee\\Date.cpp",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\c practice\\know-it\\NewEmployee\\NewEmployee\\Date.cpp",
+              "RelativeToolTip": "NewEmployee\\Date.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-07T08:08:19.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Employee.h",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\c practice\\know-it\\NewEmployee\\NewEmployee\\Employee.h",
+              "RelativeDocumentMoniker": "NewEmployee\\Employee.h",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\c practice\\know-it\\NewEmployee\\NewEmployee\\Employee.h",
+              "RelativeToolTip": "NewEmployee\\Employee.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-07T08:07:38.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SalesPerson.h",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\c practice\\know-it\\NewEmployee\\NewEmployee\\SalesPerson.h",
+              "RelativeDocumentMoniker": "NewEmployee\\SalesPerson.h",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\c practice\\know-it\\NewEmployee\\NewEmployee\\SalesPerson.h",
+              "RelativeToolTip": "NewEmployee\\SalesPerson.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-07T08:05:44.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WageEmployee.h",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\c practice\\know-it\\NewEmployee\\NewEmployee\\WageEmployee.h",
+              "RelativeDocumentMoniker": "NewEmployee\\WageEmployee.h",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\c practice\\know-it\\NewEmployee\\NewEmployee\\WageEmployee.h",
+              "RelativeToolTip": "NewEmployee\\WageEmployee.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-07T08:05:25.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Date.h",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\c practice\\know-it\\NewEmployee\\NewEmployee\\Date.h",
+              "RelativeDocumentMoniker": "NewEmployee\\Date.h",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\c practice\\know-it\\NewEmployee\\NewEmployee\\Date.h",
+              "RelativeToolTip": "NewEmployee\\Date.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-07T08:05:09.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NewEmployee.cpp",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\c practice\\know-it\\NewEmployee\\NewEmployee\\NewEmployee.cpp",
+              "RelativeDocumentMoniker": "NewEmployee\\NewEmployee.cpp",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\c practice\\know-it\\NewEmployee\\NewEmployee\\NewEmployee.cpp",
+              "RelativeToolTip": "NewEmployee\\NewEmployee.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-07T08:04:53.073Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

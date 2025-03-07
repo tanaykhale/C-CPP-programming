@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\c practice\\know-it\\BankingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CACE6DA-8ABE-4FC4-A5C7-2CBC4F166FE6}|BankingSystem\\BankingSystem.vcxproj|C:\\Users\\hp\\Desktop\\c practice\\know-it\\BankingSystem\\BankingSystem\\SavingsAccount.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7CACE6DA-8ABE-4FC4-A5C7-2CBC4F166FE6}|BankingSystem\\BankingSystem.vcxproj|solutionrelative:BankingSystem\\SavingsAccount.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CACE6DA-8ABE-4FC4-A5C7-2CBC4F166FE6}|BankingSystem\\BankingSystem.vcxproj|C:\\Users\\hp\\Desktop\\c practice\\know-it\\BankingSystem\\BankingSystem\\SavingsAccount.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7CACE6DA-8ABE-4FC4-A5C7-2CBC4F166FE6}|BankingSystem\\BankingSystem.vcxproj|solutionrelative:BankingSystem\\SavingsAccount.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CACE6DA-8ABE-4FC4-A5C7-2CBC4F166FE6}|BankingSystem\\BankingSystem.vcxproj|C:\\Users\\hp\\Desktop\\c practice\\know-it\\BankingSystem\\BankingSystem\\CurrentAccount.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7CACE6DA-8ABE-4FC4-A5C7-2CBC4F166FE6}|BankingSystem\\BankingSystem.vcxproj|solutionrelative:BankingSystem\\CurrentAccount.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CACE6DA-8ABE-4FC4-A5C7-2CBC4F166FE6}|BankingSystem\\BankingSystem.vcxproj|C:\\Users\\hp\\Desktop\\c practice\\know-it\\BankingSystem\\BankingSystem\\BankingSystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7CACE6DA-8ABE-4FC4-A5C7-2CBC4F166FE6}|BankingSystem\\BankingSystem.vcxproj|solutionrelative:BankingSystem\\BankingSystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CACE6DA-8ABE-4FC4-A5C7-2CBC4F166FE6}|BankingSystem\\BankingSystem.vcxproj|C:\\Users\\hp\\Desktop\\c practice\\know-it\\BankingSystem\\BankingSystem\\CurrentAccount.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7CACE6DA-8ABE-4FC4-A5C7-2CBC4F166FE6}|BankingSystem\\BankingSystem.vcxproj|solutionrelative:BankingSystem\\CurrentAccount.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CACE6DA-8ABE-4FC4-A5C7-2CBC4F166FE6}|BankingSystem\\BankingSystem.vcxproj|C:\\Users\\hp\\Desktop\\c practice\\know-it\\BankingSystem\\BankingSystem\\Account.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7CACE6DA-8ABE-4FC4-A5C7-2CBC4F166FE6}|BankingSystem\\BankingSystem.vcxproj|solutionrelative:BankingSystem\\Account.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CACE6DA-8ABE-4FC4-A5C7-2CBC4F166FE6}|BankingSystem\\BankingSystem.vcxproj|C:\\Users\\hp\\Desktop\\c practice\\know-it\\BankingSystem\\BankingSystem\\Account.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7CACE6DA-8ABE-4FC4-A5C7-2CBC4F166FE6}|BankingSystem\\BankingSystem.vcxproj|solutionrelative:BankingSystem\\Account.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SavingsAccount.cpp",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\c practice\\know-it\\BankingSystem\\BankingSystem\\SavingsAccount.cpp",
+              "RelativeDocumentMoniker": "BankingSystem\\SavingsAccount.cpp",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\c practice\\know-it\\BankingSystem\\BankingSystem\\SavingsAccount.cpp",
+              "RelativeToolTip": "BankingSystem\\SavingsAccount.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-06T08:25:08.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Account.cpp",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\c practice\\know-it\\BankingSystem\\BankingSystem\\Account.cpp",
+              "RelativeDocumentMoniker": "BankingSystem\\Account.cpp",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\c practice\\know-it\\BankingSystem\\BankingSystem\\Account.cpp",
+              "RelativeToolTip": "BankingSystem\\Account.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-06T08:24:35.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CurrentAccount.cpp",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\c practice\\know-it\\BankingSystem\\BankingSystem\\CurrentAccount.cpp",
+              "RelativeDocumentMoniker": "BankingSystem\\CurrentAccount.cpp",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\c practice\\know-it\\BankingSystem\\BankingSystem\\CurrentAccount.cpp",
+              "RelativeToolTip": "BankingSystem\\CurrentAccount.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-06T08:23:36.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CurrentAccount.h",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\c practice\\know-it\\BankingSystem\\BankingSystem\\CurrentAccount.h",
+              "RelativeDocumentMoniker": "BankingSystem\\CurrentAccount.h",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\c practice\\know-it\\BankingSystem\\BankingSystem\\CurrentAccount.h",
+              "RelativeToolTip": "BankingSystem\\CurrentAccount.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-06T08:22:59.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SavingsAccount.h",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\c practice\\know-it\\BankingSystem\\BankingSystem\\SavingsAccount.h",
+              "RelativeDocumentMoniker": "BankingSystem\\SavingsAccount.h",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\c practice\\know-it\\BankingSystem\\BankingSystem\\SavingsAccount.h",
+              "RelativeToolTip": "BankingSystem\\SavingsAccount.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-06T08:22:36.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Account.h",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\c practice\\know-it\\BankingSystem\\BankingSystem\\Account.h",
+              "RelativeDocumentMoniker": "BankingSystem\\Account.h",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\c practice\\know-it\\BankingSystem\\BankingSystem\\Account.h",
+              "RelativeToolTip": "BankingSystem\\Account.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-06T08:22:03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BankingSystem.cpp",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\c practice\\know-it\\BankingSystem\\BankingSystem\\BankingSystem.cpp",
+              "RelativeDocumentMoniker": "BankingSystem\\BankingSystem.cpp",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\c practice\\know-it\\BankingSystem\\BankingSystem\\BankingSystem.cpp",
+              "RelativeToolTip": "BankingSystem\\BankingSystem.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-06T08:21:12.961Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
